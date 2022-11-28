@@ -23,5 +23,5 @@ in the plane as follows:
 We run the clustering program on the data set for M=3,5,7,9,11,13 groups. For each value of M do the following:
 1) Perform 20 runs of the program with different (randomly selected initial centers) and
 we keep the solution with the smallest clustering error.
-2) Then display (plot) in the same figure both the examples (e.g. with '+') and the positions
+2) Then display 2 plots one with the examples (e.g. with '+') and one with the positions
 of the centers you found (e.g. with '*').
