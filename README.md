@@ -19,7 +19,7 @@ we generate random points (x1,x2)[1200 points] in the plane as follows:
 
 
 # Create K-Means algorithm 
-We run the clustering program on the data set for M=3,5,7,9,11,13 groups. For each value of M do the following:
+We run the clustering algorithm on the dataset for M=3,5,7,9,11,13 groups. For each value of M do the following:
 1) Perform 20 runs of the program with different (randomly selected initial centers) and
 we keep the solution with the smallest clustering error.
 2) Then display 2 plots 
