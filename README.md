@@ -1,5 +1,5 @@
 # Clustering-KMeans Algorithm Implementation :page_facing_up:
-A k means algorithm implementation in Java .Clustering numbers from functions .
+A k means algorithm implementation in Java .Clustering points.
 UOI-Project for computational intelligence course.
 
 # Create dataset :file_folder:
