@@ -37,4 +37,4 @@ Here is an image of all points from Dataset
 
  The points (centers) which algorithm found for clustering 
  
- ![alt text]([https://github.com/Georgemouts/Clustering-KMeans-Algorithm/blob/main/images/all_points.png)![alt text](https://github.com/Georgemouts/Clustering-KMeans-Algorithm/blob/main/images/all_points.png](https://github.com/Georgemouts/Clustering-KMeans-Algorithm/blob/main/images/centroid_m%3D7.png))
+ ![alt text](https://github.com/Georgemouts/Clustering-KMeans-Algorithm/blob/main/images/centroid_m%3D7.png)
