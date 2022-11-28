@@ -31,3 +31,5 @@ the **center μk of the group** it belongs to and we sum the distances for all e
 xi.
 
 # Results :memo:
+Here is an image of all points from Dataset
+![alt text](https://github.com/Georgemouts/Clustering-KMeans-Algorithm/blob/main/images/all_points.png)
