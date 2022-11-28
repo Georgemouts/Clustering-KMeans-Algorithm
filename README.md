@@ -27,4 +27,4 @@ we keep the solution with the smallest clustering error.
   - one with the examples (e.g. with '+')  
   - one with the positions of the centers found by the algorithm (e.g. with '*').
 
-# Results
+# Results :memo:
