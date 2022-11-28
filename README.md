@@ -4,8 +4,7 @@ UOI-Project for computational intelligence course.
 
 # Create dataset :file_folder:
 
-we generate random points (x1,x2)
-in the plane as follows: 
+we generate random points (x1,x2)[1200 points] in the plane as follows: 
 1) 150 points in the square [0.75,1.25]x[0.75,1.25], 
 2) 150 points in the square[0, 0.5]x[0,0.5],
 3) 150 points in the square [0,0.5] x [1.5,2], 
