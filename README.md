@@ -11,7 +11,7 @@ UOI-Project for computational intelligence course.
 - If (x1 – 0.5)2 + (x2 + 0.5)2 <0.16, then (x1,x2) is classified in the category C2,
 
 - If (x1 + 0.5)2 + (x2 – 0.5)2 <0.16, then (x1,x2) is classified in the category C2,
-- 
+
 - If (x1,x2) belongs tο 1st or in the 3rd quarter then is classified in the category C3,
 
 - If (x1,x2) belongs to 2nd or in the 4th quarter then is classified in the category C4.
