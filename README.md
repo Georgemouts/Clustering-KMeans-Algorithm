@@ -2,23 +2,17 @@
 A k means algorithm implementation in Java .Clustering numbers from functions .
 UOI-Project for computational intelligence course.
 
-# Create dataset putting noise in it :file_folder:
+# Create dataset :file_folder:
 
-- If (x1 – 0.5)2 + (x2 – 0.5)2 <0.16, then (x1,x2) is classified in the category C1,
-
-- If (x1 + 0.5)2 + (x2 + 0.5)2 <0.16, then (x1,x2) is classified in the category C1,
-
-- If (x1 – 0.5)2 + (x2 + 0.5)2 <0.16, then (x1,x2) is classified in the category C2,
-
-- If (x1 + 0.5)2 + (x2 – 0.5)2 <0.16, then (x1,x2) is classified in the category C2,
-
-- If (x1,x2) belongs tο 1st or in the 3rd quarter then is classified in the category C3,
-
-- If (x1,x2) belongs to 2nd or in the 4th quarter then is classified in the category C4.
-
-We then add noise only to the training set as follows: for each instance of
-training set with a **probability of 0.1** we change its category and assign it to some random one
-another category
+we generate random points (x1,x2)
+in the plane as follows: 
+1) 150 points in the square [0.75,1.25]x[0.75,1.25], 
+2) 150 points in the square
+[0, 0.5]x[0,0.5],
+3) 150 points in the square [0,0.5] x [1.5,2], 4) 150 points in the square
+[1.5,2]x[0,0.5], 5) 150 points in the square [1.5,2] x [1.5,2], 6) 75 points in the square
+[0.6,0.8]x[0,0.4], 7) 75 points in the square [0.6,0.8] x [1.6,2], 8) 75 points in the square
+[1.2,1.4]x[0,0.4], 9) 75 points in square [1.2,1.4] x [1.6,2], 10) 150 points in square [0,2]x[0,2].
 
 
 
