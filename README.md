@@ -23,8 +23,8 @@ We run the clustering program on the data set for M=3,5,7,9,11,13 groups. For ea
 1) Perform 20 runs of the program with different (randomly selected initial centers) and
 we keep the solution with the smallest clustering error.
 2) Then display 2 plots 
-  - one with the examples (e.g. with '+')  
-  - one with the positions of the centers found by the algorithm (e.g. with '*').
+  - one all with the points.
+  - one with the positions of the centers found by the algorithm.
   
 For each instance xi we calculate the **Euclidean distance ||xi-μk||2** from
 the **center μk of the group** it belongs to and we sum the distances for all examples
