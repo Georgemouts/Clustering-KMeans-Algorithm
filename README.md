@@ -27,8 +27,8 @@ we keep the solution with the smallest clustering error.
   - one with the examples (e.g. with '+')  
   - one with the positions of the centers found by the algorithm (e.g. with '*').
   
-For each instance xi we calculate the Euclidean distance ||xi-μk||2 from
-the center μk of the group it belongs to and we sum the distances for all examples
+For each instance xi we calculate the **Euclidean distance ||xi-μk||2** from
+the **center μk of the group** it belongs to and we sum the distances for all examples
 xi.
 
 # Results :memo:
