@@ -32,4 +32,5 @@ xi.
 
 # Results :memo:
 Here is an image of all points from Dataset
+
 ![alt text](https://github.com/Georgemouts/Clustering-KMeans-Algorithm/blob/main/images/all_points.png)
