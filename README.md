@@ -14,7 +14,8 @@ in the plane as follows:
 6) 75 points in the square[0.6,0.8]x[0,0.4], 
 7) 75 points in the square [0.6,0.8] x [1.6,2],
 8) 75 points in the square[1.2,1.4]x[0,0.4],
-9) 75 points in square [1.2,1.4] x [1.6,2], 10) 150 points in square [0,2]x[0,2].
+9) 75 points in square [1.2,1.4] x [1.6,2], 
+10) 150 points in square [0,2]x[0,2].
 
 
 
